@@ -11,8 +11,10 @@ require (
 	github.com/elastic/gosigar v0.14.2 // indirect
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
 	github.com/fumiama/water v0.0.0-20211231134027-da391938d6ac
+	github.com/fumiama/wintun v0.0.0-20211229152851-8bc97c8034c0 // indirect
 	github.com/godbus/dbus/v5 v5.0.6 // indirect
 	github.com/google/btree v1.0.1 // indirect
+	github.com/google/uuid v1.3.0 // indirect
 	github.com/gookit/color v1.5.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.4
